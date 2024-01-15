@@ -7,13 +7,14 @@ This repository contains code for a web application that allows users to generat
 ## Table of Contents
 
 *[a link] (Features)
+* [a link] (Technologies)
 *[a link] (References)
 *[a link] (Project Demo)
 
-## Features
+### Features
 
-## Refernces
+### Refernces
 
-## Project Demo
+### Project Demo
 
 
