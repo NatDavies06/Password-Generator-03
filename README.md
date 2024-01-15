@@ -30,5 +30,4 @@ This repository contains code for a web application that allows users to generat
 
 ## Project Demo
 
-[Password-generator](https://github.com/NatDavies06/module-3-password-gen.git)
-
+[Password-Gen-3](http://127.0.0.1:5500/index.html)http://127.0.0.1:5500/index.html
