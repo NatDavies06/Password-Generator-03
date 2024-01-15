@@ -23,7 +23,7 @@ This repository contains code for a web application that allows users to generat
 
 ## References
 
-* [Github/markdown-cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+* [Github/markdown-cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 * 
 
