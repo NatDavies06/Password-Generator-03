@@ -11,20 +11,23 @@ This repository contains code for a web application that allows users to generat
 *[a link] (References)
 *[a link] (Project Demo)
 
-### Features
+## Features
 
 * User-friendly interface:
 
-### Technologies
+## Technologies
 
 * HTML
 * CSS
 * JavaScript
 
-### Refernces
+## Refernces
+
+*[Github.com](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 *[
-](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
-### Project Demo
 
+
+## Project Demo
+[github.com/NatDavies06/module-3-password-gen.git](https://github.com/NatDavies06/module-3-password-gen.git)https://github.com/NatDavies06/module-3-password-gen.git
 
