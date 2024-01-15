@@ -30,4 +30,4 @@ This repository contains code for a web application that allows users to generat
 
 ## Project Demo
 
-[Password-Gen-3](http://127.0.0.1:5500/index.html)http://127.0.0.1:5500/index.html
+[Password-Gen-3](http://127.0.0.1:5500/index.html)
