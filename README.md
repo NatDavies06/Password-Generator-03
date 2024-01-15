@@ -17,11 +17,11 @@ This repository contains code for a web application that allows users to generat
 
 ## Technologies
 
-* HTML
+* <storng>HTML<strong>
 * CSS
 * JavaScript
 
-## Refernces
+## References
 
 *[Github.com](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
