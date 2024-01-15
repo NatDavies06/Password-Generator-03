@@ -14,7 +14,6 @@ This repository contains code for a web application that allows users to generat
 
 ## Features
 
-* User-friendly interface:
 
 ## Technologies
 
@@ -24,11 +23,12 @@ This repository contains code for a web application that allows users to generat
 
 ## References
 
-*[Github/markdown-cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+* [Github/markdown-cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
-*[
+* 
 
 
 ## Project Demo
-[github.com/NatDavies06/module-3-password-gen.git](https://github.com/NatDavies06/module-3-password-gen.git)
+
+[Password-generator](https://github.com/NatDavies06/module-3-password-gen.git)
 
