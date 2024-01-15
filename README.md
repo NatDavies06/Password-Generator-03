@@ -6,10 +6,10 @@ This repository contains code for a web application that allows users to generat
 
 ## Table of Contents
 
-*[Features](link)
-*[Technologies](link)
-*[References](link)
-*[Project Demo](link)
+* [Features](link)
+* [Technologies](link)
+* [References](link)
+* [Project Demo](link)
 
 
 ## Features
