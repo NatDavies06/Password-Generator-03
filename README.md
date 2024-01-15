@@ -6,10 +6,11 @@ This repository contains code for a web application that allows users to generat
 
 ## Table of Contents
 
-*[a link] ("Features)
-*[a link] (Technologies)
-*[a link] (References)
-*[a link] (Project Demo)
+*[Features](link)
+*[Technologies](link)
+*[References](link)
+*[Project Demo](link)
+
 
 ## Features
 
@@ -17,13 +18,13 @@ This repository contains code for a web application that allows users to generat
 
 ## Technologies
 
-* <storng>HTML<strong>
+* HTML
 * CSS
 * JavaScript
 
 ## References
 
-*[Github.com](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+*[Github/markdown-cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 *[
 
