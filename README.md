@@ -46,8 +46,11 @@ This repository contains code for my third bootcamp assignment. The following is
 
 * [Owasp.org/password-special-characters](https://owasp.org/www-community/password-special-characters)
 
+* [Github/Bootcamp-Starter-Code
+](https://github.com/coding-boot-camp/friendly-parakeet)
+
 ## Project Demo
 
-[Password-Gen-3](http://127.0.0.1:5500/index.html)
+[Password-Generator-3](http://127.0.0.1:5500/index.html)
 
 
