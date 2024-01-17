@@ -26,9 +26,9 @@ This repository contains code for my third bootcamp assignment. The following is
 3. Follow the prompts.
    - Clicking "OK" will use critera in prompt for password.
    - Clicking "Cancel" will not use criteria in prompt for password.
-   
-   <img width="749" alt="Screen Shot 2024-01-16 at 8 33 48 PM" src="https://github.com/NatDavies06/Password-Generator-3/assets/153016845/a6b1d86c-f3a0-4151-afa4-1d89221a6a9a">
-   
+
+   <img width="745" alt="Screen Shot 2024-01-16 at 8 59 03 PM" src="https://github.com/NatDavies06/Password-Generator-3/assets/153016845/64db5c41-fe9e-49bc-8857-ee1e8201bc9d">
+  
 
 4. Congrats on your new password! Write this down to be safe!
 
