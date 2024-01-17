@@ -8,7 +8,7 @@ This repository contains code for my third bootcamp assignment. The following is
 
 * [How to Use](#How-to-Use)
 * [Technologies](#Technologies)
-* [References](#Refernces)
+* [References](#References)
 * [Project Demo](#Project-Demo)
 
 
@@ -40,17 +40,17 @@ This repository contains code for my third bootcamp assignment. The following is
 * CSS
 * JavaScript
 
-## Refernces
+## References
 
-* [Github/markdown-cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+* [Github/Markdown-Cheatsheet ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
-* [Owasp.org/password-special-characters](https://owasp.org/www-community/password-special-characters)
+* [Owasp.org/Password-Special-Characters](https://owasp.org/www-community/password-special-characters)
 
 * [Github/Bootcamp-Starter-Code
 ](https://github.com/coding-boot-camp/friendly-parakeet)
 
 ## Project Demo
 
-[Password-Generator-3](http://127.0.0.1:5500/index.html)
+[Password Generator](http://127.0.0.1:5500/index.html)
 
 
