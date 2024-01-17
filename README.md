@@ -18,19 +18,19 @@ This repository contains code for my third bootcamp assignment. The following is
 
    <img width="749" alt="Screen Shot 2024-01-16 at 8 33 48 PM" src="https://github.com/NatDavies06/Password-Generator-3/assets/153016845/1b394887-1e36-4c17-aae8-b74ec6b6bfb2">
 
-3. Set the desired length of password.
+2. Set the desired length of password.
 
    <img width="727" alt="Screen Shot 2024-01-16 at 9 10 24 PM" src="https://github.com/NatDavies06/Password-Generator-3/assets/153016845/64aeec6b-e82b-48d4-bdb3-3f8d703ed2db">
 
 
-5. Follow the prompts.
+3. Follow the prompts.
    - Clicking "OK" will use critera in prompt for password.
    - Clicking "Cancel" will not use criteria in prompt for password.
    
    <img width="749" alt="Screen Shot 2024-01-16 at 8 33 48 PM" src="https://github.com/NatDavies06/Password-Generator-3/assets/153016845/a6b1d86c-f3a0-4151-afa4-1d89221a6a9a">
    
 
-7. Congrats! Hopefully you write this password down!
+4. Congrats on your new password! Write this down to be safe!
 
     <img width="740" alt="Screen Shot 2024-01-16 at 8 37 08 PM" src="https://github.com/NatDavies06/Password-Generator-3/assets/153016845/512ddba2-7c4d-41e2-a23f-5e9439d89735">
 
