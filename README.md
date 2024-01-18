@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for my third bootcamp assignment. The following is a web application that allows users to generate random passwords that follow specific criteria.
+This repository contains code for my third bootcamp assignment. The following is a web application that allows users to generate a random password while setting specific criteria.
 
 ## Table of Contents
 
