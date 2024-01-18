@@ -51,6 +51,6 @@ This repository contains code for my third bootcamp assignment. The following is
 
 ## Project Demo
 
-[Password Generator](http://127.0.0.1:5500/index.html)
-
+[
+](https://natdavies06.github.io/Password-Generator-3/)https://natdavies06.github.io/Password-Generator-3/
 
